@@ -1,0 +1,1 @@
+Validate intent before coding.
